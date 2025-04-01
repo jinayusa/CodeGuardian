@@ -39,8 +39,8 @@ Using static analysis, AI/NLP models, and custom rule engines, CodeGuardian prov
 
 ### ✅ Phase 1: Project Setup & Planning
 - [x] Define scope and architecture
-- [ ] Set up GitHub repo structure
-- [ ] Configure Docker, linting, virtual environments
+- [x] Set up GitHub repo structure
+- [x] Configure Docker, linting, virtual environments
 
 ### 🔨 Phase 2: Code Quality & Security Engine
 - [ ] Build AST-based quality scanner
