@@ -43,9 +43,9 @@ Using static analysis, AI/NLP models, and custom rule engines, CodeGuardian prov
 - [x] Configure Docker, linting, virtual environments
 
 ### 🔨 Phase 2: Code Quality & Security Engine
-- [ ] Build AST-based quality scanner
-- [ ] Integrate Bandit/Semgrep for static security checks
-- [ ] Create backend API endpoints
+- [x] Build AST-based quality scanner
+- [x] Integrate Bandit/Semgrep for static security checks
+- [x] Create backend API endpoints
 
 ### 🤖 Phase 3: AI Ethics & Compliance Analysis
 - [ ] Use NLP to detect bias and unethical patterns
