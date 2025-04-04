@@ -48,14 +48,14 @@ Using static analysis, AI/NLP models, and custom rule engines, CodeGuardian prov
 - [x] Create backend API endpoints
 
 ### 🤖 Phase 3: AI Ethics & Compliance Analysis
-- [ ] Use NLP to detect bias and unethical patterns
-- [ ] Build rule engine for HIPAA/GDPR compliance
-- [ ] Format analysis output with severity levels
+- [x] Use NLP to detect bias and unethical patterns
+- [x] Build rule engine for HIPAA/GDPR compliance
+- [x] Format analysis output with severity levels
 
 ### 🎨 Phase 4: Frontend Dashboard
-- [ ] Code upload form + report viewer
-- [ ] Integrate with backend API
-- [ ] Add GitHub repo analysis option
+- [x] Code upload form + report viewer
+- [x] Integrate with backend API
+- [x] Add GitHub repo analysis option
 
 ### 🚀 Phase 5: Polish, Deploy & Document
 - [ ] Dockerize full stack
